@@ -1,6 +1,6 @@
 #  Classifier for Human Brain Mental Attention State using EEG BCI-based data
 
-### CS 532 Intelligent Computing - Project Phase 2 (Due 26th March, 2020) 
+### CS 532 Intelligent Computing - Project Phase 2 (Due 25th March, 2020) 
 
 #### 21100187, 21100130
 
