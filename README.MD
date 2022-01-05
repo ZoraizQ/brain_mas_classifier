@@ -9,6 +9,6 @@ View the complete project report [here](docs/Report.pdf).
 https://www.kaggle.com/inancigdem/eeg-data-for-mental-attention-state-detection
 
 ## Collaborators
-- Zoraiz Qureshi, BS Computer Science, Lahore University of Management Sciences
-- Syed Ali Hassan Bukhari, BS Computer Science, Lahore University of Management Sciences
-- Dr. Mian Muhammad Awais, Professor, Lahore University of Management Sciences 
+- [Zoraiz Qureshi](https://github.com/ZoraizQ), BS Computer Science, Lahore University of Management Sciences 
+- [Syed Ali Hassan Bukhari](https://github.com/alibukhari6728), BS Computer Science, Lahore University of Management Sciences
+- [Dr. Mian Muhammad Awais](https://scholar.google.com.pk/citations?user=wkxlfFAAAAAJ&hl=en), Professor, Lahore University of Management Sciences 
